@@ -1,0 +1,75 @@
+body{
+    background: url(https://pp.userapi.com/c841531/v841531230/57b65/KcfwPlClTKs.jpg) 100% 100% no-repeat;
+    -moz-background-size: 115%; /
+    -webkit-background-size: 115%;
+    -o-background-size: 115%;
+    background-size: 115%;
+    font-size:100px;
+    font-family:'Oswald';
+    color:red;
+    align="center";
+}
+body.backgroundforthirdpage{
+    background: url(https://pp.userapi.com/c841531/v841531230/57b65/KcfwPlClTKs.jpg) 100% 100% no-repeat;
+    -moz-background-size: 125%; /
+    -webkit-background-size: 125%;
+    -o-background-size: 125%;
+    background-size: 125%;
+}
+h1{ color:white;
+    margin:20px;
+    font_size :4rem;
+    background-color:#060606;
+    font-family:'Oswald';
+    text-transform: uppercase;
+    letter-spacing: 100px;
+}
+a:link {
+     color: #0000d0;
+   }
+   a:visited {
+     color: #900060;
+}
+a{
+    font-size:100px;
+    font-family:italy;
+ }
+p{ font-size:100px;
+    font-family:'italic';
+    color:red;
+    align="center";
+ }
+h2{font-size:25px;
+    font-family:'italic';
+    color: blue;}
+h2.r8{
+font-size:25px;
+color:purple;
+}
+
+table{
+width: 100%;
+background:#FFD700;
+}
+#footer {
+    margin: 0;
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 15px;
+    background: Black;
+    color: tomato;
+    width: 100%;
+}
+h2.r9{
+color:MediumVioletRed;
+font-size:25px;
+}
+div.r10{
+color:Moccasin;
+}
+h2.r11{
+color:DimGray;
+}
+div.r12{
+color:Olive;
+}
